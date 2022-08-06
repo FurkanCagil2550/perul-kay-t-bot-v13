@@ -1,2 +1,1 @@
-# perul-kay-t-bot-v13
-Discord Perul sunucusu için kayıt botu altyapısı
+Perul | Discord sunucusu için v13 kayıt botu altyapısı.
